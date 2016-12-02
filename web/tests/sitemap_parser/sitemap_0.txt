@@ -1,0 +1,4 @@
+http://www.example.com/file1.html
+http://www.example.com/file2.html
+dummy
+http://www.example.com/foo.html
